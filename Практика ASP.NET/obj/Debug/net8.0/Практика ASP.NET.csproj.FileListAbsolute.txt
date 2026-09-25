@@ -1,0 +1,30 @@
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\appsettings.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\Практика ASP.NET.staticwebassets.runtime.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\Практика ASP.NET.exe
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\Практика ASP.NET.deps.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\Практика ASP.NET.runtimeconfig.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\Практика ASP.NET.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\Практика ASP.NET.pdb
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.AssemblyInfoInputs.cache
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.AssemblyInfo.cs
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.RazorAssemblyInfo.cache
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.RazorAssemblyInfo.cs
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.Практика ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Практика ASP.NET.props
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Практика ASP.NET.props
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Практика ASP.NET.props
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\scopedcss\bundle\Практика ASP.NET.styles.css
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\scopedcss\projectbundle\Практика ASP.NET.bundle.scp.css
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\refint\Практика ASP.NET.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.pdb
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.genruntimeconfig.cache
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\ref\Практика ASP.NET.dll
