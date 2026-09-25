@@ -43,6 +43,15 @@ namespace Практика_ASP.NET.Controllers
             return View();
         }
 
+        public IActionResult Cold_conflict()
+        {
+
+            return View();
+        }
+        public IActionResult Cosmic_corporations()
+        {
+            return View();
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

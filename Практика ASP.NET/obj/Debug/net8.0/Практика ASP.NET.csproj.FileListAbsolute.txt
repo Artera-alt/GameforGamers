@@ -28,3 +28,4 @@ C:\Users\Малая академия\source\repos\Практика ASP.NET\Пр�
 C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.pdb
 C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.genruntimeconfig.cache
 C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\ref\Практика ASP.NET.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.sourcelink.json
