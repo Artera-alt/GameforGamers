@@ -29,3 +29,11 @@ C:\Users\Малая академия\source\repos\Практика ASP.NET\Пр�
 C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.genruntimeconfig.cache
 C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\ref\Практика ASP.NET.dll
 C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.sourcelink.json
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика ASP.NET.csproj.AssemblyReference.cache
+C:\Users\Малая академия\source\repos\Практика ASP.NET\Практика ASP.NET\obj\Debug\net8.0\Практика.DC7E535A.Up2Date

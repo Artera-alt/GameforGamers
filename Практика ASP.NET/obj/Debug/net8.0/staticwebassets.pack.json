@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\Практика ASP.NET.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\Index.css",
+      "PackagePath": "staticwebassets\\Index.css"
+    },
+    {
       "Id": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

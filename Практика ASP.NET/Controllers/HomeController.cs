@@ -1,4 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Data;
+using System.Data.SqlClient;
 using System.Diagnostics;
 using Практика_ASP.NET.Models;
 
@@ -6,6 +8,8 @@ namespace Практика_ASP.NET.Controllers
 {
     public class HomeController : Controller
     {
+        private static string connect = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=\"C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\Database1.mdf\";Integrated Security=True";
+
         private readonly ILogger<HomeController> _logger;
 
         public HomeController(ILogger<HomeController> logger)
@@ -15,7 +19,25 @@ namespace Практика_ASP.NET.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            List<Customer> customers = new List<Customer>();
+            using (SqlConnection conn = new SqlConnection(connect))
+            {
+                conn.Open();
+                using (SqlCommand cmd = new SqlCommand("Select * from [dbo].[Customers]", conn))
+                {
+                    using (SqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        while (reader.Read())
+                        {
+                            int id = reader.GetInt32(0);
+                            string Name =   reader.GetString(1);
+                            string email = reader.GetString(2);
+                            customers.Add(new Customer(id,Name,email));
+                        }
+                    }
+                }
+            }
+            return View(customers);
         }
 
         public IActionResult Privacy()

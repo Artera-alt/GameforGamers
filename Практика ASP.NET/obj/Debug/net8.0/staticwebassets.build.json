@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YC1ZdJ+F3d1roQTt141QYYZHwDtRdBE/jVUBf0PAisI=",
+  "Hash": "BTjf+XlFyJJbzF0PSyOSHAhoREo4y9iK9d7WLzOFMIs=",
   "Source": "Практика ASP.NET",
   "BasePath": "_content/Практика ASP.NET",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\Index.css",
+      "SourceId": "Практика ASP.NET",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\",
+      "BasePath": "_content/Практика ASP.NET",
+      "RelativePath": "Index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.css"
     },
     {
       "Identity": "C:\\Users\\Малая академия\\source\\repos\\Практика ASP.NET\\Практика ASP.NET\\wwwroot\\js\\site.js",
